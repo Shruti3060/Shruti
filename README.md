@@ -1,6 +1,6 @@
 ## Hi, I'm Shruti 
 :memo: 2nd year btech computer science student<br/>
-:Email: kurilshruti51@gmail.com<br/>
+:construction: kurilshruti51@gmail.com<br/>
 
  
 # 💻 Tech Stack:

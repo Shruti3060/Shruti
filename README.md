@@ -1,6 +1,6 @@
 ## Hi, I'm Shruti 
-:sparkles: Added linear search in C++
-:memo: Updated notes on flexbox 2nd year btech computer science student<br/>
+:memo: 2nd year btech computer science student<br/>
+:Email: kurilshruti51@gmail.com<br/>
 
  
 # 💻 Tech Stack:

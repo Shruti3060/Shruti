@@ -1,5 +1,6 @@
 ## Hi, I'm Shruti 
- 2nd year btech computer science student<br/>
+:sparkles: Added linear search in C++
+:memo: Updated notes on flexbox 2nd year btech computer science student<br/>
 
  
 # 💻 Tech Stack:
